@@ -6,7 +6,7 @@ import {
   FirebaseUISignInSuccessWithAuthResult,
   NativeFirebaseUIAuthConfig,
 } from './firebaseui-angular-library.helper';
-import * as firebaseui from 'firebaseui';
+
 import {User} from 'firebase/app';
 import {FirebaseuiAngularLibraryService} from './firebaseui-angular-library.service';
 import 'firebase/auth';
